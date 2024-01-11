@@ -16,15 +16,15 @@
  - 🌱 I’m currently learning Competitive Coding, DSA, and Backend
  - 👯 I’m looking to collaborate on exciting projects and Hackathons
  - 💬 Ask me about development
- - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/varun-agarwal-b91518226/)
+ - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/saksham-saxena-920100249/)
  
  <hr>
  
 <h3 align="center">Connect with me:</h3>
  <p align="center">
- <a href="https://twitter.com/1010varun_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="1010varun_" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/1010varun/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="1010varun" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://instagram.com/_agarwal_varun_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_agarwal_varun_" height="50" width="50" /></a>
+ <a href="#" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="sakshamsaxena2003" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/saksham-saxena-920100249/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="sakshamsaxena2003" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.instagram.com/saksham_saxena.5/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_saksham_saxena_" height="50" width="50" /></a>
  </p>
  
  
@@ -43,28 +43,7 @@
  
  <table>
    <tr>
-     <td><img src="https://github-readme-stats.vercel.app/api?username=1010varun&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1010varun&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
     </tr> 
-    <tr>
-       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=1010varun&theme=tokyonight"  display=block width=100% height=auto alt="3" >          </td>
-   </tr>
  </table>
  
- # Productivity Stats📈:
- <table>
-   <tr>
-     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1010varun&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-    </tr> 
-    <tr>
-       <td>
-         <a href="https://github.com/1010varun/github-readme-activity-graph#gh-light-mode-only">
-          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=1010varun&theme=react&area=true&hide_border=true#gh-light-mode-only"                width="100%">
-         </a>
-         <a href="https://github.com/1010varun/github-readme-activity-graph#gh-dark-mode-only">
-           <img src="https://github-readme-activity-graph.cyclic.app/graph?username=1010varun&theme=dracula&area=true&hide_border=true#gh-dark-mode-only"              width="100%">
-         </a>
-     </td>
-   </td>
-   </tr>
- </table>
